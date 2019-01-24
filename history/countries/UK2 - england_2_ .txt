@@ -1,4 +1,4 @@
-capital = 133
+capital = 126
 
 oob = "ENG_1936"
 
@@ -223,19 +223,19 @@ set_politics = {
 
 	parties = {
 		democratic = { 
-			popularity = 0
+			popularity = 97
 		}
 
 		fascism = {
-			popularity = 100
+			popularity = 2
 		}
 		
 		communism = {
-			popularity = 0
+			popularity = 1
 		}
 	}
 	
-	ruling_party = facsism
+	ruling_party = democratic
 	last_election = "1935.11.14"
 	election_frequency = 48
 	elections_allowed = yes ##suspended through duration of war, which is handled via event
